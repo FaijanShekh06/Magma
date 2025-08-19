@@ -58,5 +58,5 @@ gsap.to("#page2>h1>span", {
     scrub: 5,
   },
   stagger: 0.2,
-  color: `#fff`,
+  color: `#ffff`,
 });
